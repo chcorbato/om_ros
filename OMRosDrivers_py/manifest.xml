@@ -1,0 +1,18 @@
+<package>
+  <description brief="OMRosDrivers_py">
+
+     meta_perception_py
+
+  </description>
+  <author>Carlos Hernandez Corbato</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="rosnode"/>
+  <depend package="rosparam"/>
+
+</package>
+
+

@@ -1,0 +1,9 @@
+<launch>
+    
+  <!-- metacontrol drivers -->
+ 
+  <node name="meta_sensor_node" pkg="OMRosDrivers_py" type="meta_sensor_node.py"  output="screen" respawn="true"/>
+  
+  <node name="meta_actuator_node" pkg="OMRosDrivers_py" type="meta_actuator_node.py"  output="screen" respawn="true"/>  
+    
+</launch>

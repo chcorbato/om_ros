@@ -1,0 +1,23 @@
+<package>
+  <description brief="OMRosMetacontrol">
+
+     OMRosMetacontrol
+
+  </description>
+  <author>Carlos Hernandez Corbato</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/OMRosMetacontrol</url>
+  <depend package="rosjava"/>
+  <depend package="OMRosDrivers_py"/>
+  <depend package="geometry_msgs"/>
+  
+  <export>
+    <rosjava-src location="src" />
+    <rosjava-pathelement location="bin/" groupId="org.ros" artifactId="org.aslab.om.ros.OMMetacontrollerNode" version="0.0.0" built="true" />
+    
+  </export>
+
+</package>
+
+

@@ -1,3 +1,9 @@
+# WARNING !!
+This repository is *not maintained*.
+The code contained was intended to demonstrate a prototype of the conceptual approach in [1]
+A successor of the OM framework is currently being developped in my [[Metacontrol]](https://www.researchgate.net/project/Metacontrol-for-Self-adaptive-Autonomous-Systems) research line, currently for [[ROS sytems]](https://www.researchgate.net/project/MROS-Model-based-Metacontrol-for-ROS-systems).
+
+
 # om_ros
 ROS packages containing the infrastructure to connect the metacontrol system implemented in the OMJava library to a ROS-based system.
 
